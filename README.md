@@ -69,11 +69,6 @@ I design systems that preserve data history and reflect real-world workflows.
 
 ---
 
-## 📊 GitHub Stats
-
-![Azam's GitHub stats](https://github-readme-stats.vercel.app/api?username=azamwebdesigner-dotcom&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azamwebdesigner-dotcom&layout=compact)
 ## 📫 Connect With Me
 
 🌐 Website: https://azamdeveloper.com/  
