@@ -59,7 +59,9 @@ A production-ready Human Resource Management System built for judiciary / govern
 🔗 Frontend Repository: https://github.com/azamwebdesigner-dotcom/judiciary-hrms-frontend
 
 
+## 🎥 Project Demo
 
+[![Watch Demo](https://img.youtube.com/vi/9JBxG8RCGf8/0.jpg)](https://www.youtube.com/watch?v=9JBxG8RCGf8)
 ---
 
 ## 🎯 Development Philosophy
