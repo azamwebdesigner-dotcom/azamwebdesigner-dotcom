@@ -77,6 +77,7 @@ I design systems that preserve data history and reflect real-world workflows.
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Booststrap-4479A1?style=for-the-badge&logo=mysql&logoColor=black)
 
 ## 📫 Connect With Me
 
