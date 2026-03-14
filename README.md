@@ -80,6 +80,5 @@ I design systems that preserve data history and reflect real-world workflows.
 ![BootsTrap](https://img.shields.io/badge/BoostsTrap-5579A1?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## 📫 Connect With Me
-
-🌐 Website: https://azamdeveloper.com/  
-💼 LinkedIn: 🔗 https://www.linkedin.com/in/mohammad-azamali/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-azamali/)
+[![Azam Developer](https://azamdeveloper.com/favicon.ico)](https://azamdeveloper.com/#/login)
